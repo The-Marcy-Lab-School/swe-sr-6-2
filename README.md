@@ -32,7 +32,9 @@ Any iterative function can be written recursively. Provide an example of an iter
 
 ## Prompt 4
 
-Compare and contrast "inorder", "preorder", and "postorder" traversals of a binary tree. You can use this tree as an example:
+Depth-first-search is an algorithm of traversing through a tree that explores as far as possible along a single branch before backtracking and exploring other branches. The three approaches for depth-first-search are "inorder", "preorder", and "postorder". 
+
+Using this tree as an example, explain the differences between these three approaches, providing implementations of each (recursive or iterative, its up to you but one of them is definitely cleaner).
 
 ```
     A
